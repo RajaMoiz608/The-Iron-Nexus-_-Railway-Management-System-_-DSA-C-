@@ -131,12 +131,13 @@ Each option opens its own sub-menu. Enter `0` at any sub-menu to return to the m
 - Dijkstra's shortest path runs on a custom array-based Min-Heap, not the STL
 - The `ColoredTerminal.h` header provides a consistent styled UI using ANSI codes throughout
 
-  Team Members
-This project was developed by:
+##   Team Members
 
-Moiz Raja - GitHub: https://github.com/RajaMoiz608
-Rehan Ayub - GitHub: https://github.com/RehanAyub56
-Malhan Bin Faisal - GitHub: https://github.com/MalhanFaisal
+ This project was developed by:
+
+- Moiz Raja - GitHub: https://github.com/RajaMoiz608
+- Rehan Ayub - GitHub: https://github.com/RehanAyub56
+- Malhan Bin Faisal - GitHub: https://github.com/MalhanFaisal
 
 ---
 
